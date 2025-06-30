@@ -9,7 +9,7 @@ homepage = "https://github.com/intrepidt/student-key-manager"
 repository = "https://github.com/intrepidt/student-key-manager"
 license = "MIT OR Apache-2.0"
 keywords = ["education", "privacy", "encryption", "anonymization", "security"]
-categories = ["cryptography", "database", "web"]
+categories = ["cryptography", "database"]
 exclude = [
     "tests/*",
     ".gitignore",
