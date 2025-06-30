@@ -1,8 +1,5 @@
 Student Key Manager
-Show Image
-Show Image
-Show Image
-Show Image
+
 A secure, production-ready Rust library for managing student data anonymization keys in educational applications. Provides strong encryption, secure key distribution, and automatic re-keying when student data changes.
 🔐 Features
 
